@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------------
+-> teacher-student simple application in java.
+-> using SQL Server as database.
+-> Registering user's Password to database is secured with Hash function.
+-> Services and helpers are to prevent duplicated codes in forms.
+-> student can see grades while teacher can grade student.
+-> account details change page where users can change thier details after verifying the password again with hashed
+-> showing current date time in every page by using THREAD
+-------------------------------------------------------------------------------------
